@@ -1,9 +1,7 @@
 package com.example.sampleapi.controller;
 
-import com.example.sampleapi.Service.NoteService;
+import com.example.sampleapi.service.NoteService;
 import com.example.sampleapi.dto.Note;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.util.UriComponentsBuilder;

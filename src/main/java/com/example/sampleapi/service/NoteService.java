@@ -1,4 +1,4 @@
-package com.example.sampleapi.Service;
+package com.example.sampleapi.service;
 
 import com.example.sampleapi.dto.Note;
 import com.example.sampleapi.exception.NoteArgumentNotValidException;
